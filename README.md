@@ -8,4 +8,4 @@
 <p>Repo: <a href="sileo://source/https://sparkdev.me/">Add to Sileo</a></p>
 <p><a href="https://sparkdev.me/">https://sparkdev.me/</a></p>
 <p>&nbsp;</p>
-<p>(THIS WEBSITE IS NOT COMPLETE, SORRY FOR THE UNFINISHED DESIGN.</p>
+<p>(THIS WEBSITE IS NOT COMPLETE, SORRY FOR THE UNFINISHED DESIGN.)</p>
