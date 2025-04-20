@@ -1,5 +1,5 @@
 <p>&nbsp;</p>
-<h1>Jailbreak, Themes, and more!</h1>
+<h1>Repo of the Day!</h1>
 <p>This website is in BETA.</p>
 <p>Repo Of The Day! (Day 1)</p>
 <p>&nbsp;</p>
